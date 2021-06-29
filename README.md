@@ -52,7 +52,7 @@ I'm Stevan, a 19 years old developper from France.
 ### Credits
 
 - [Stefan Natter](github.com/natterstefan) for profile inspiration
-
+- [Anurag Hazra](https://github.com/anuraghazra) for stat cards
 
 
 [1]: https://github.com/stevancorre
