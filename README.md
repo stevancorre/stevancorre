@@ -42,7 +42,7 @@ I'm Stevan, a 19 years old developper from France.
 
 ## 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=877ed7&text_color=e0e0e0&border_color=897ef2&bg_color=00000000&border_radius=5&icon_color=aaa1ff)][1]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevancorre&layout=compact&title_color=877ed7&text_color=e0e0e0&border_color=897ef2&bg_color=00000000&border_radius=5&icon_color=aaa1ff)][1]
 
 ![Stevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevancorre&show_icons=true&hide=prs,issues&title_color=877ed7&text_color=e0e0e0&border_color=897ef2&bg_color=00000000&border_radius=5&icon_color=aaa1ff)
 
