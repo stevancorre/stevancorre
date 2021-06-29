@@ -2,7 +2,7 @@
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=stevancorre&color=877ed7)][1]
 [![instagram](https://img.shields.io/badge/Instagram-follow%20me-877ed7?logo=instagram&logoWidth=20)][2]
-[![newsletter](https://img.shields.io/badge/Twitter-follow%20me-877ed7?logo=twitter&logoWidth=20)][3]
+[![twitter](https://img.shields.io/badge/Twitter-follow%20me-877ed7?logo=twitter&logoWidth=20)][3]
 
 # Hey! 👋
 
@@ -30,13 +30,13 @@ I'm Stevan, a 19 years old developper from France.
 
 ## 📩 Contact
 
-- Web: stevancorre.github.io
+- Web: [stevancorre.github.io][4]
 
-- Linked In: linkedin.com/in/stevancorre
+- Linked In: [linkedin.com/in/stevancorre][5]
 
-- Twitter: twitter.com/stevancorre
+- Twitter: [twitter.com/stevancorre][3]
 
-- Instagram: instagram.com/stevancorre
+- Instagram: [instagram.com/stevancorre][2]
 
 <br/>
 
@@ -58,3 +58,5 @@ I'm Stevan, a 19 years old developper from France.
 [1]: https://github.com/stevancorre
 [2]: https://instagram.com/stevancorre
 [3]: https://twitter.com/stevancorre
+[4]: https://stevancorre.github.io
+[5]: https://linkedin.com/in/stevancorre
