@@ -59,4 +59,4 @@ I'm Stevan, a 19 years old developper from France.
 [2]: https://instagram.com/stevan.cre
 [3]: https://twitter.com/stevancorre
 [4]: https://stevancorre.github.io
-[5]: https://linkedin.com/in/stevancorre
+[5]: https://www.linkedin.com/in/st%C3%A9van-corre-b9a9b31b6/
