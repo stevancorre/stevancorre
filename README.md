@@ -13,17 +13,11 @@ I'm Stevan, a 19 years old developper from France.
 ## ⚙ Skills
 
 - HTML/CSS/JS
-
-- C++, C, C#
-
+- C, C#
 - TypeScript, JavaScript, PHP
-
 - Python
-
 - Casio Basic, Batch
-
-- React, Angular, ViewJS
-
+- React, Angular, ViewJS, Next, tRPC
 - Unity, Xamarin, WPF
 
 <br/>
